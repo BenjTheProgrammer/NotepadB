@@ -65,7 +65,7 @@
             button1.TabIndex = 2;
             button1.Text = "Close";
             button1.UseVisualStyleBackColor = true;
-            button1.Click += this.button1_Click;
+            button1.Click += button1_Click;
             // 
             // pictureBox1
             // 
